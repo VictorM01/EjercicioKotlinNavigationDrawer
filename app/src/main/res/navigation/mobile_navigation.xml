@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="e.iesoretania.ejerciciokotlinnavigationdrawer.Fragmentos.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_dam"
+        android:name="e.iesoretania.ejerciciokotlinnavigationdrawer.Fragmentos.DamFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_dam" />
+
+    <fragment
+        android:id="@+id/nav_daw"
+        android:name="e.iesoretania.ejerciciokotlinnavigationdrawer.Fragmentos.DawFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_daw" />
+    <fragment
+        android:id="@+id/nav_acerca"
+        android:name="e.iesoretania.ejerciciokotlinnavigationdrawer.Fragmentos.AcercaFragment"
+        android:label="@string/menu_acerca"
+        tools:layout="@layout/fragment_acerca" />
+    <fragment
+        android:id="@+id/nav_asir"
+        android:name="e.iesoretania.ejerciciokotlinnavigationdrawer.Fragmentos.AsirFragment"
+        android:label="@string/menu_asir"
+        tools:layout="@layout/fragment_asir" />
+</navigation>

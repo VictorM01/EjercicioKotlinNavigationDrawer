@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">EjercicioKotlinNavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">IES Oretania</string>
+    <string name="nav_header_subtitle">Ciclos Formativos de Grado Superior</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">DAM</string>
+    <string name="menu_slideshow">DAW</string>
+    <string name="menu_asir">ASIR</string>
+    <string name="menu_acerca">Acerca de</string>
+
+    <string name="cf_asir">CFGS ASIR</string>
+    <string name="cf_daw">CFGS DAW</string>
+    <string name="cf_dam">CFGS DAM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="large_asir">
+        "El Ciclo de Grado Superior de Administración de Sistemas Informáticos en Red (ASIR) es una opción educativa muy demandada y relevante en el mundo de la informática y la tecnología. Este ciclo formativo, de dos años de duración, se encuentra dentro del ámbito de la Formación Profesional en muchos países, incluyendo España, y tiene como objetivo formar a profesionales altamente cualificados en la gestión y administración de sistemas informáticos en red.
+
+        Uno de los aspectos más destacados de ASIR es su enfoque práctico. A lo largo de los dos años de formación, los estudiantes adquieren habilidades y conocimientos esenciales para administrar y mantener sistemas informáticos en red de manera eficiente y segura. Esto incluye la configuración y gestión de servidores, la implementación de redes, la seguridad informática, la virtualización, el almacenamiento de datos y la resolución de problemas en entornos informáticos.
+
+        El primer año del ciclo suele centrarse en proporcionar una base sólida en conceptos fundamentales, como la administración de sistemas operativos, la programación, las redes de computadoras y la seguridad. Los estudiantes aprenden a trabajar con sistemas Windows y Linux, a configurar servidores, a programar en lenguajes como Python o Java y a comprender los principios básicos de la seguridad informática.
+
+        El segundo año se adentra aún más en la especialización, abordando temas más avanzados como la virtualización, la administración de bases de datos, la gestión de servicios en la nube y la gestión de proyectos informáticos. Los estudiantes también suelen tener la oportunidad de realizar prácticas en empresas del sector, lo que les permite aplicar sus conocimientos en entornos reales y adquirir experiencia laboral.
+
+        ASIR es un ciclo de grado superior muy versátil que prepara a los estudiantes para una amplia gama de roles en el campo de la informática. Los graduados pueden encontrar empleo como administradores de sistemas, ingenieros de redes, especialistas en seguridad informática, técnicos de soporte, consultores informáticos o incluso emprender sus propios proyectos empresariales en el ámbito de la tecnología.
+
+        La demanda de profesionales con conocimientos en administración de sistemas informáticos en red es alta y sigue creciendo a medida que la tecnología desempeña un papel cada vez más crucial en la sociedad y los negocios. Las empresas y organizaciones de todo tipo requieren expertos capaces de garantizar el funcionamiento eficiente de sus sistemas, proteger sus datos y mantener la integridad de sus redes.
+
+        Además de las salidas laborales, el Ciclo de Grado Superior de ASIR también brinda la posibilidad de continuar con estudios superiores, como la obtención de un título universitario en informática, ingeniería de sistemas o campos afines. Esto permite a los graduados seguir avanzando en sus carreras y especializarse aún más en áreas específicas de la informática.
+
+        En resumen, el Ciclo de Grado Superior de Administración de Sistemas Informáticos en Red (ASIR) es una opción educativa altamente relevante y valiosa en el mundo de la informática. Ofrece a los estudiantes una formación sólida en la administración de sistemas y redes, preparándolos para una amplia gama de oportunidades profesionales en un campo en constante evolución. Con la creciente dependencia de la tecnología en la sociedad moderna, los profesionales de ASIR desempeñan un papel fundamental en la garantía del funcionamiento eficiente de sistemas informáticos y redes en todo el mundo."
+    </string>
+    <string name="large_daw">
+        "El Ciclo de Grado Superior de Desarrollo de Aplicaciones Web (DAW) es una formación ampliamente reconocida y demandada en el ámbito de la informática y la programación. Este ciclo formativo, que suele tener una duración de dos años, se enfoca en preparar a estudiantes para convertirse en expertos en el desarrollo de aplicaciones web, lo que incluye la programación de sitios web y aplicaciones para diversos dispositivos y plataformas.
+
+        El DAW se ha convertido en una opción educativa muy popular debido a la creciente importancia de las aplicaciones web en la actualidad. A medida que más servicios y negocios migran a entornos digitales, la demanda de profesionales capaces de diseñar, desarrollar y mantener aplicaciones web de alta calidad sigue creciendo.
+
+        El plan de estudios de DAW es integral y se enfoca en proporcionar una base sólida en programación, diseño web, bases de datos y tecnologías relacionadas. Los estudiantes aprenden lenguajes de programación como HTML, CSS, JavaScript, PHP, y pueden explorar frameworks y herramientas populares como React, Angular, Vue.js y Django, según la orientación del programa.
+
+        El primer año del ciclo a menudo se dedica a establecer una base sólida en programación y diseño web. Los estudiantes adquieren habilidades esenciales para crear interfaces atractivas y funcionales, además de aprender a trabajar con bases de datos y desarrollar aplicaciones web de pequeña escala. Se introducen en conceptos de usabilidad, experiencia de usuario y diseño responsivo.
+
+        En el segundo año, los estudiantes se especializan aún más en el desarrollo de aplicaciones web y profundizan en aspectos avanzados como la seguridad en línea, la gestión de proyectos, la arquitectura de software y la implementación de servicios en la nube. También se les brinda la oportunidad de realizar prácticas profesionales en empresas del sector, lo que les permite aplicar sus conocimientos en entornos reales y adquirir experiencia laboral.
+
+        El Ciclo de Grado Superior de DAW ofrece una amplia gama de oportunidades profesionales. Los graduados pueden trabajar como desarrolladores web front-end o back-end, diseñadores web, ingenieros de software, especialistas en seguridad informática, consultores de aplicaciones web o emprender sus propios proyectos en el ámbito del desarrollo web. La flexibilidad y la demanda constante de profesionales en este campo hacen que el DAW sea una opción educativa muy atractiva.
+
+        Además, aquellos que deseen continuar su educación pueden optar por estudios superiores, como la obtención de un título universitario en informática, ingeniería de software o áreas afines. Esto les permite especializarse aún más en el desarrollo de aplicaciones web o explorar otros campos relacionados con la tecnología.
+
+        En resumen, el Ciclo de Grado Superior de Desarrollo de Aplicaciones Web (DAW) es una opción educativa altamente relevante y valiosa en el mundo de la informática y la programación. Prepara a los estudiantes para una amplia variedad de roles en el desarrollo de aplicaciones web, un campo que desempeña un papel fundamental en la transformación digital actual. Con la creciente demanda de aplicaciones web de alta calidad, los profesionales de DAW son esenciales para ayudar a las empresas y organizaciones a alcanzar sus objetivos en línea."
+    </string>
+    <string name="large_dam">
+        "El Ciclo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) es una formación técnica altamente relevante y demandada en el ámbito de la informática y el desarrollo de software. Este ciclo formativo, que generalmente dura dos años, se enfoca en preparar a los estudiantes para convertirse en expertos en el desarrollo de aplicaciones que pueden funcionar en múltiples plataformas, como sistemas operativos de escritorio y dispositivos móviles.
+
+        DAM ha ganado popularidad debido a la creciente importancia de las aplicaciones en la sociedad actual. La mayoría de las empresas y organizaciones dependen de aplicaciones informáticas para realizar sus operaciones diarias, lo que ha impulsado la demanda de profesionales capacitados para diseñar, desarrollar y mantener aplicaciones multiplataforma.
+
+        El plan de estudios de DAM es amplio y cubre una variedad de áreas clave, incluyendo programación, diseño de interfaces, bases de datos, gestión de proyectos y seguridad informática. Los estudiantes aprenden lenguajes de programación como Java, C#, Swift, y también pueden explorar frameworks y herramientas populares como Flutter, Xamarin y React Native, dependiendo de la orientación del programa.
+
+        El primer año del ciclo se centra en proporcionar una base sólida en programación y diseño de interfaces. Los estudiantes adquieren habilidades esenciales para crear aplicaciones atractivas y funcionales en múltiples plataformas, así como para trabajar con bases de datos y desarrollar aplicaciones de escritorio y móviles de pequeña escala. Se introducen en conceptos de usabilidad, experiencia de usuario y diseño de interfaces amigables.
+
+        En el segundo año, los estudiantes se especializan aún más en el desarrollo de aplicaciones multiplataforma y profundizan en aspectos avanzados como la seguridad en línea, la gestión de proyectos, la arquitectura de software y la implementación de servicios en la nube. También tienen la oportunidad de realizar prácticas profesionales en empresas del sector, lo que les permite aplicar sus conocimientos en entornos reales y adquirir experiencia laboral.
+
+        El Ciclo de Grado Superior de DAM ofrece una amplia gama de oportunidades profesionales. Los graduados pueden trabajar como desarrolladores de software multiplataforma, ingenieros de software, diseñadores de interfaces, especialistas en seguridad informática, consultores de aplicaciones y emprender sus propios proyectos en el ámbito del desarrollo de software. La versatilidad de las habilidades adquiridas en DAM les permite adaptarse a diferentes sectores y aplicar sus conocimientos en diversos contextos.
+
+        Aquellos que deseen continuar su educación pueden optar por estudios superiores, como la obtención de un título universitario en informática, ingeniería de software o áreas afines. Esto les permitirá especializarse aún más en el desarrollo de aplicaciones multiplataforma o explorar otros campos relacionados con la tecnología.
+
+        En resumen, el Ciclo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) es una opción educativa altamente relevante y valiosa en el mundo de la informática y el desarrollo de software. Prepara a los estudiantes para una variedad de roles en el desarrollo de aplicaciones que pueden funcionar en diversas plataformas, un campo que desempeña un papel fundamental en la actualidad. Con la creciente demanda de aplicaciones multiplataforma de alta calidad, los profesionales de DAM son esenciales para ayudar a las empresas y organizaciones a satisfacer las necesidades de sus usuarios y clientes en un mundo cada vez más digital."
+    </string>
+</resources>
